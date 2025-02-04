@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving the show/hide functionality of an element.  The bug is caused by incorrect usage of the `display` property within a JavaScript function.  The solution provides a corrected version that correctly toggles the visibility of the element.
